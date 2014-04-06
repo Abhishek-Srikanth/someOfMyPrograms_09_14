@@ -1,0 +1,21 @@
+0
+//================== sudoku solver - user guide ==================//
+
+Guide lines:
+ During input:
+  -> Only numbers {1-9} and 'return - enter' key is accepted
+  -> Any other character will not be recognised
+  -> If you make a mistake, after input you may choose to re-enter
+       -> during YES or NO choice, only {y,Y,n,N} are accepted
+       -> all others will be considered as YES
+  -> Entering an invalid sudoku will make programme run to infinity
+
+ After input wait for programme to solve
+
+ Once solution has been displayed, you may choose to save the answer
+ A YES or NO {y,Y,n,N} choice is presented
+    -> incorrect entry is treated as a NO
+    #  if YES, solution saved in "solutions.txt"
+    #  user may press any key to proceed forward
+
+//======================= End of user guide =======================//

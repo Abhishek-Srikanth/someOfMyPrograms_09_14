@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1351146766 source:e:\sudoku3\main.cpp
+	<iostream>
+	<conio.h>
+
+1351146766 source:f:\sudoku3\main.cpp
+	<iostream>
+	<conio.h>
+
+1350656778 source:k:\sudoku3\main.cpp
+	<iostream>
+	<conio.h>
+
+1350823817 source:c:\users\abhish\desktop\sudoku3\main.cpp
+	<iostream>
+	<conio.h>
+
+1355882700 source:c:\users\abhish\dropbox\sudoku3\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+
+1356049080 source:c:\users\abhishek\dropbox\sudoku3\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+
+1357171250 source:c:\users\abhish\dropbox\sudoku_3\sudoku3\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+
