@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1308301974 source:c:\users\abhish\desktop\trial\subtrial.cpp
+	<iostream>
+
+1309155892 source:c:\users\abhish\desktop\trial\main.cpp
+	<iostream>
+	<cstdlib>
+	"head.h"
+	"add.h"
+
+1309155985 c:\users\abhish\desktop\trial\head.h
+	<iostream>
+	<cstdlib>
+
+1309155844 c:\users\abhish\desktop\trial\add.h
+	<iostream>
+

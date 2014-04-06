@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1312804298 source:c:\users\abhish\desktop\ascii\main.cpp
+	<iostream>
+	<cstdlib>
+
