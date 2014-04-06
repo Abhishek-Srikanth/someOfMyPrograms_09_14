@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1383531306 source:c:\users\abhishek\documents\codechef\pretnum\main.cpp
+	<iostream>
+	<fstream>
+	<bitset>
+

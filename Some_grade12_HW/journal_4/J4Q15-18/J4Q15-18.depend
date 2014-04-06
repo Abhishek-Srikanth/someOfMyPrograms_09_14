@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1351399444 source:c:\users\abhish\desktop\journal_4\j4q15-18\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<string.h>
+

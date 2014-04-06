@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1383526997 source:c:\users\abhishek\documents\codechef\spotwo\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

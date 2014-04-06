@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1351388993 source:c:\users\abhish\desktop\journal_4\j4fq1\main.cpp
+	<fstream>
+	<iostream>
+	<conio.h>
+
