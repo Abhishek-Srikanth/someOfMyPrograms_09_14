@@ -1,0 +1,85 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/plain"
+    tools:context="${packageName}.${activityClass}" >
+
+    <TextView
+        android:id="@+id/title_howtoplay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="27dp"
+        android:text="@string/title_activity_how_to"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#FFFCDE28"
+        android:textSize="44sp"
+        android:textStyle="bold|italic"
+        android:typeface="serif" />
+
+    <TextView
+        android:id="@+id/objectiveText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/objective"
+        android:layout_below="@+id/objective"
+        android:text="@string/objectiveText"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="#F7F771"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/objective"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/title_howtoplay"
+        android:layout_below="@+id/title_howtoplay"
+        android:layout_marginTop="14dp"
+        android:text="@string/objective"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#FFFCDE28"
+        android:textSize="28sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/controlTextla"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/controls"
+        android:layout_below="@+id/controls"
+        android:text="@string/controlsText"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="#F7F771"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/controls"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/objectiveText"
+        android:layout_below="@+id/objectiveText"
+        android:text="@string/controls"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#FFFCDE28"
+        android:textSize="28sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/taunt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:gravity="center_horizontal"
+        android:text="@string/taunt"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="#FFFCDE28"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:typeface="normal" />
+
+</RelativeLayout>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DodgeIt</string>
+ <!-- Self explanatory -->
+    <string name="ball_desc">image of a ball</string>
+ <!-- I dont know why i put this -->
+
+    <string name="play">Lets do it</string>
+ <!-- For PLAY GAME button -->
+    <string name="title_activity_how_to">How To Play</string>
+ <!-- For title of how to play activity -->
+    <string name="howtoplay">How To Play</string>
+ <!-- For how to play button -->
+
+    <string name="objective">Objective</string>
+    <string name="objectiveText">The main objective of the game is to get the CONSTANTLY
+	    bouncing football through various incremental waves of red danger balls!</string>
+    <string name="controls">Controls</string>
+    <string name="controlsText">Gently swipe left or right to move the CONSTANTLY bouncing 
+	    football in the HORIZONTAL direction.
+	    You may restart by swiping up or down.</string>
+    <string name="taunt">There is something for you at the end of level 14!
+	    				 Bet you cannot get there!</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
